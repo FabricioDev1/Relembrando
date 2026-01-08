@@ -1,0 +1,64 @@
+*{
+    color: var(--fontColor);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    font-family: monospace;
+    background: var(--bg);
+}
+ul {
+    font-family: helvética;
+}
+    
+div {
+    outline-style: none;
+    position: absolute;
+    top: 20px;
+    left: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+}
+.btn{
+    outline-style: none;
+    position: absolute;
+    top: 20px;
+    left: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    color: var(--bg);
+    background-color: var(--fontColor);
+    
+}
+
+li {
+    list-style: circle;
+    size: 30px;
+}
+.list {
+    list-style:square;
+}
+/*
+#msg {
+    font-family: monospace;}
+*/
+.light-theme {
+   --bg: var(--green);
+   --fontColor: var(--black);
+}
+
+.dark-theme {
+    --bg: var(--black);
+    --fontColor: var(--white);
+
+}
+
+:root{
+    --green: #00ff00;
+    --white: #ffffff;
+    --black: #000000;
+}
