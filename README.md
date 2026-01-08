@@ -1,4 +1,4 @@
-<h1 align="center"> Botão troca de tema do website </h1>
+<h1 align="center"> Projeto Básico </h1>
 
 <p align="center">
 Atividade gratuita oferecida por Fundação Bradesco 
