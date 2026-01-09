@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Básico </h1>
 
 <p align="center">
-Atividade gratuita oferecida por Fundação Bradesco 
+Atividade realizada baseada nos aprendizados no Curso de Desenvolvimento Web
 </p>
 
 <p align="center">
@@ -15,15 +15,16 @@ Atividade gratuita oferecida por Fundação Bradesco
 
 <h3 align="center" id="tecnologia"> 🚀 Tecnologias <h3>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- Futuramente terá mais linguagens agregadas.
 
 <h3 align="center" id="projeto"> 💻 Projeto <h3>
 
-Foi criado um web site simples utilizando HTML, CSS e JAVASCRIPT com um botão com a função de troca de tema para dark ou light.
-Mas em breve será adicionado mais funções, se tornando um projeto maior. Assim implementando novas funções que irei aprendendo no decorrer do caminho de meu aprendizado. 🚀
+Foi criado um web site simples utilizando HTML, CSS e JAVASCRIPT começou com um simples site adicionando troca de tema entre "light" e "dark".
+Agora está se transformando em um site de restaurante baseado em um projeto pessoal para um amigo🚀
   
   
  <h3 align="center" id="layout"> Layout <h3>
