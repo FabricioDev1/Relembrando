@@ -5,19 +5,38 @@
 
 body {
     font-family: monospace;
-    background: var(--bg);
+    background: image("logo.jpeg");
+}
+
+#rodape{
+    bottom: 15px;
+
+}
+
+#assinatura{
+    bottom: 15px;
 }
 ul {
     font-family: helvética;
 }
     
-div {
+/*div {
     outline-style: none;
     position: absolute;
     top: 20px;
     left: 250px;
     height: 50px;
     width: 50px;
+    border-radius: 50%;
+    border: none;
+}
+*/
+.cardapio{
+    outline-style: none;
+    position: absolute;
+    left: 250px;
+   /*height: 100%;
+    width: 100%;*/
     border-radius: 50%;
     border: none;
 }
@@ -36,7 +55,7 @@ div {
 }
 
 li {
-    list-style: circle;
+    border: 10px;
     size: 30px;
 }
 .list {
@@ -44,16 +63,24 @@ li {
 }
 /*
 #msg {
-    font-family: monospace;}
-*/
+    font-family: monospace;
+    }
+
 .light-theme {
    --bg: var(--green);
    --fontColor: var(--black);
 }
 
-.dark-theme {
+.dark-theme .img {
+      display: block;
     --bg: var(--black);
     --fontColor: var(--white);
+*/
+.img{
+    display: none;
+}
+
+
 
 }
 
@@ -62,3 +89,5 @@ li {
     --white: #ffffff;
     --black: #000000;
 }
+
+
